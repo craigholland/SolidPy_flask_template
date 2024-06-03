@@ -1,5 +1,5 @@
-# solidpy submodule template
-base structure for SolidPy python submodules
+# SolidPy Flask submodule template
+Base structure for SolidPy.Flask service submodule
 
 # Contains:
 - `scripts/` directory for parent bash/python scripts
